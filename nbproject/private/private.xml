@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/gudangbarang/app_utama.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/model/modelLogin.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/database/konfigurasiDatabase.properties</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/database/koneksi.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/gudangbarang/GudangBarang.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/model/modelBarang.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/controller/controllerBarang.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/controller/controllerLogin.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/view/viewBarangKeluar.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/controller/controllerBarangKeluar.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/view/viewLogin.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/view/viewBarang.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/view/viewListDataBarang.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/gudangRokok/src/model/modelBarangKeluar.java</file>
+        </group>
+    </open-files>
+</project-private>
